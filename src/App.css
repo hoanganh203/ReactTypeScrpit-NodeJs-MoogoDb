@@ -1,0 +1,36 @@
+.App {
+  margin: 0 auto;
+}
+
+table {
+  width: 1000px;
+  text-align: center;
+  border: 1px solid #ccc;
+
+}
+
+
+
+th:nth-child(2) {
+  width: 30%;
+}
+
+th:nth-child(3) {
+  width: 30%;
+}
+
+tr:nth-child(1) {
+  border: 1px solid #ccc;
+  background-color: #ccc;
+}
+
+tr {
+  background-color: darkslategrey;
+  color: aliceblue;
+  border: 1px solid #ccc;
+}
+
+td {
+  padding: 10px 10px;
+  border: none;
+}
